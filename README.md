@@ -17,6 +17,7 @@ Matlab (For test data generation and performance evaluation)
 Datasets:LFV-Raytrix  and LFV-Lytro
 
 L. Guillo, X. Jiang, G. Lafruit, C. Guillemot, Light field video dataset captured by a R8 Raytrix camera, ISO/IEC JTC1/SC29/WG11 Technical Report, 2018. 
+
 T. C. Wang, J. Y. Zhu, N. K. Kalantari, A. A. Efros, R. Ramamoorthi, Light field video capture using a learning-based hybrid imaging system, ACM Trans. Graph. 36 (4) (2017) 1-13. 
 
 Datasets: The LF data used in this experiment all come from two publicly available LFV datasets (i.e., LFV-Raytrix , 
